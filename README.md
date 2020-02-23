@@ -15,3 +15,10 @@ How routing works in node js
 How image works in node js
 
 N.B. I didn't do the CSS part of this project
+
+
+
+
+### Useful link for Deploying Node.js project 
+
+https://www.freecodecamp.org/news/how-to-deploy-a-nodejs-app-to-heroku-from-github-without-installing-heroku-on-your-machine-433bec770efe/
