@@ -1,0 +1,19 @@
+{
+  "name": "08_Laptop_App",
+  "version": "1.0.0",
+  "description": "node app ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "mhatiboglu",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": ""
+}
